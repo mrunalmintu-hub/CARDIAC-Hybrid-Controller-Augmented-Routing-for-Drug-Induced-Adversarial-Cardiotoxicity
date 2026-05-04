@@ -107,6 +107,6 @@ Paradigms	15
 Contributions	6 *
 World firsts
 
-Ghanshyam Mrunal Jetty  |  W24034825  |  MSc Data Science  |  Northumbria University  |  2024-2026
+Ghanshyam Mrunal Jetty  |  MSc Data Science  |  Northumbria University  |  2024-2026
 Supervisor: Dr. Keerthana Jaganathan  |  Target: JCIM, ACS Publications
 
